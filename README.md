@@ -1,5 +1,5 @@
 # Classification-Bitcoin-Ransomware-Transaction
-Machin Learning Model
+Machin Learning Model : Logistic Regression
 
 run the "Preprocessing and preparation data" file
 the file will read the original dataset and create two files
