@@ -3,7 +3,7 @@
 Machin Learning Model : Logistic Regression
 
 
-notice : All functions used in this model are created by me => ( no predefined functions )
+NOTE 💡 : All functions used in this model are created by me => ( no predefined functions )
 
 run the "Preprocessing and preparation data" file
 the file will read the original dataset and create two files
