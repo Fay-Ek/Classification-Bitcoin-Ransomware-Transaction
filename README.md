@@ -1,6 +1,8 @@
 # Classification-Bitcoin-Ransomware-Transaction
 #Réalisé par : El-moubarek Fayçal
-Machin Learning Model : Logistic Regression
+
+
+#Machin Learning Model : Logistic Regression
 
 
 NOTE 💡 : All functions used in this model are created by me => from scratch
