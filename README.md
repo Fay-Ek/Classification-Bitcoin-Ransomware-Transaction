@@ -5,7 +5,7 @@
 #Machin Learning Model : Logistic Regression
 
 
-NOTE 💡 : All functions used in this model are created by me => from scratch
+NOTE 💡 : All functions used in this model are created from scratch
 
 run the "Preprocessing and preparation data" file
 the file will read the original dataset and create two files
